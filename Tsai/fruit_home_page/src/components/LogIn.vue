@@ -103,13 +103,10 @@
             }
 
             .loginBtn{
-                // display: block;
                 margin: 0 auto 20px auto;
                 padding: 10px 50px;
                 border-radius: 20px;
                 border: none;
-                // background: #333;
-                // color: rgb(13, 13, 13);
                 transition: 0.3s;
                 border: 2px #333 solid;
 
@@ -124,7 +121,6 @@
 
             .message{
                 font-size: 10pt;
-                // font-weight: normal;
                 text-align: right;
                 color: rgba(47, 54, 64, 1.0);
             }

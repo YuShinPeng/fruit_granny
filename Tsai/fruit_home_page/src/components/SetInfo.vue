@@ -124,17 +124,37 @@ export default {
             }
             .email-area{
                 margin-bottom: 10px;
+
+                input{
+                    border: 0;
+                    border-bottom: 2px solid rgba(0,0,0,.1);
+                    outline: none;
+
+                    &:focus{
+                        border-bottom: 2px solid rgba(238, 33, 33, 0.791); 
+                        }
+                }
+                
             }
 
             .input-area{
 
                 input{
-                    margin-bottom: 13px;
+                    margin-top: 30px;
+                    height: 40px;
+                    width: 60%;
+                    border: 0;
+                    border-bottom: 2px solid rgba(0,0,0,.1);
+                    outline: none;
+
+                    &:focus{
+                        border-bottom: 2px solid rgba(81, 80, 80, 0.791); 
+                        }
                 }
             }
 
             .setBtn{
-                margin: 0 auto 20px auto;
+                margin: 60px auto 50px auto;
                 padding: 12px 35px;
                 border-radius: 20px;
                 border: none;
