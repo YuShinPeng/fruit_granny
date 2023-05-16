@@ -37,7 +37,7 @@ export default {
         <div class="item-area-detail">
 
             <div class="photoExhibit">
-                <img src="../assets/img/tomotoFruit.jpg" alt="">
+                <img src="../../assets/img/tomotoFruit.jpg" alt="">
             </div>
 
             <div class="ckeckInfo">

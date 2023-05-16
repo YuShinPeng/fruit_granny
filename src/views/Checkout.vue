@@ -1,6 +1,6 @@
 <script >
-import Card from "../views/shan/Card.vue"
-import HeaderView from "../views/shan/Header.vue"
+import Card from "../components/shan/Card.vue"
+import HeaderView from "../components/shan/Header.vue"
 
 
 
