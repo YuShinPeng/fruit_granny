@@ -20,7 +20,7 @@ export default {
 
         }
     },
-    
+    // 生命週期
     mounted() {
         // this.fn();
 
@@ -37,12 +37,12 @@ export default {
         <div class="item-area-detail">
 
             <div class="photoExhibit">
-                <img src="../../assets/img/tomotoFruit.jpg" alt="">
+                <img src="../../../public/shan/img/tomotoFruit.jpg" alt="">
             </div>
 
             <div class="ckeckInfo">
                 <div class="textLayout">
-                    <p>商品名稱 : </p>
+                    <p>商品名稱 :  </p>
                     <p class="text-primary mx-2"> 聖女番茄{{ productName }}</p>
                 </div>
                 <div class="textLayout">
